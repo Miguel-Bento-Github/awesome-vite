@@ -118,6 +118,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vue-sfc-in-js](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
 - [vite-vue-lib-template](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 - [vite-plugin-style-vw-loader](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
+- [ts-vite-vue-3-pinia-cypress-vitest-vue-query-eslint-prettier-sass-i18n](https://github.com/Miguel-Bento-Github/ts-vite-vue-3-pinia-cypress-vitest-vue-query-eslint-prettier-sass-i18n) - Our project is built with TypeScript, Vite, Vue 3, Vue Router, Pinia, Cypress, Vitest, Vue Query, ESLint, Prettier, Sass, and vue i18n.
 
 #### Vue 2
 
